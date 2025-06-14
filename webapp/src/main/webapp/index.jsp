@@ -6,6 +6,8 @@
     <hr>
       <h1> this is updated code <h1>
      <h1> my name is fardeen khan how are you</h1>
+     <h1> this is updated code <h1>
+     <h1> my name is fardeen khan how are you</h1>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
